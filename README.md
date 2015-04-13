@@ -1,10 +1,18 @@
 # systemd Units
 
-[![All rights reserved](https://img.shields.io/badge/license-All_rights_reserved-red.svg)](./LICENSE.txt)
+[![The Unlicense](https://img.shields.io/badge/license-The_Unlicense-red.svg)](./LICENSE.txt)
+
+## Description
+
+These are my systemd units.
+
+For a usage example, see [archrc].
+
+[archrc]: https://github.com/razor-x/archrc
 
 ## License
 
-Copyright © 2015 Evan Sosenko.
+This is free and unencumbered software released into the public domain.
 
 ## Warranty
 
