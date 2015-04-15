@@ -1,0 +1,20 @@
+{
+  "name": "systemd-units",
+  "version": "0.1.0",
+  "authors": [
+    "Evan Sosenko <razorx@evansosenko.com>"
+  ],
+  "description": "systemd units.",
+  "main": "README.md",
+  "keywords": [
+    "systemd",
+    "units",
+    "config"
+  ],
+  "license": "Public Domain",
+  "homepage": "https://github.com/razor-x/systemd-units",
+  "private": true,
+  "ignore": [
+    "**/.*"
+  ]
+}
