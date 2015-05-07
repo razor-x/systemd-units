@@ -8,7 +8,7 @@ These are my systemd units.
 
 For a usage example, see [archrc].
 
-[archrc]: https://github.com/razor-x/archrc
+[archrc]: https://github.com/rxrc/archrc
 
 ## License
 
