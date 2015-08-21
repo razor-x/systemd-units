@@ -1,5 +1,9 @@
 # Changelog
 
+## HEAD
+
+- Remove autologin config.
+
 ## 1.1.0
 
 - Add efistub-update units.
