@@ -2,6 +2,7 @@
 
 ## HEAD
 
+- Add xscreensaver-lock service.
 - Remove slimlock service.
 
 ## 1.2.0
