@@ -1,5 +1,9 @@
 # Changelog
 
+## HEAD
+
+- Remove slimlock service.
+
 ## 1.2.0
 
 - Remove autologin config.
