@@ -1,5 +1,9 @@
 # Changelog
 
+## HEAD
+
+- Fix xscreensaver-lock service.
+
 ## 1.3.0
 
 - Add xscreensaver-lock service.

@@ -6,7 +6,8 @@ Before=sleep.target
 [Service]
 User=%i
 Type=oneshot
-ExecStart=/usr/bin/xscreensaver-command --lock
+ExecStart=/usr/bin/xscreensaver-command -lock
+Environment=DISPLAY=:0
 
 [Install]
 WantedBy=sleep.target
