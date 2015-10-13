@@ -1,5 +1,9 @@
 # Changelog
 
+## HEAD
+
+- Add efistub-ucode service.
+
 ## 1.4.0
 
 - Add rEFInd update service.

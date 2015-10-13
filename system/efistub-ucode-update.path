@@ -1,0 +1,8 @@
+[Unit]
+Description=Copy Intel microcode to UEFISYS Partition
+
+[Path]
+PathChanged=/boot/intel-ucode.img
+
+[Install]
+WantedBy=multi-user.target
