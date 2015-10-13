@@ -1,6 +1,6 @@
 # Changelog
 
-## HEAD
+## 1.5.0
 
 - Add efistub-ucode service.
 
