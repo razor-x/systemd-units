@@ -1,0 +1,6 @@
+[Unit]
+Description=Install rEFInd update
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/refind-install

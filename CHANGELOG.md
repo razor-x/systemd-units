@@ -1,5 +1,9 @@
 # Changelog
 
+## HEAD
+
+- Add rEFInd update service.
+
 ## 1.3.1
 
 - Fix xscreensaver-lock service.
