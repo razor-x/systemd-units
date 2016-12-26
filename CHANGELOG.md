@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Make efi update units configurable with kernal name.
 - Add `netctl-auto-resume` service.
 
 ## 1.5.0
