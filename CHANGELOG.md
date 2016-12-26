@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Add `netctl-auto-resume` service.
+
 ## 1.5.0
 
 - Add efistub-ucode service.
