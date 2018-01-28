@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.1.1] / 2018-01-28
+
+### Added
+
+- Publish package to npm.
+
 ## [2.1.0] / 2016-12-25
 
 ### Changed
@@ -64,7 +70,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - Initial release.
 
-[Unreleased]: https://github.com/rxrc/systemd-units/compare/v2.1.0...HEAD
+[Unreleased]: https://github.com/rxrc/systemd-units/compare/v2.1.1...HEAD
+[2.1.1]: https://github.com/rxrc/systemd-units/compare/v2.1.0...v2.1.1
 [2.1.0]: https://github.com/rxrc/systemd-units/compare/v2.0.0...v2.1.0
 [2.0.0]: https://github.com/rxrc/systemd-units/compare/v1.5.0...v2.0.0
 [1.5.0]: https://github.com/rxrc/systemd-units/compare/v1.4.0...v1.5.0
