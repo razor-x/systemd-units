@@ -1,11 +1,14 @@
 # systemd Units
 
-[![Release](https://img.shields.io/github/release/rxrc/systemd-units.svg)](https://github.com/rxrc/systemd-units/releases)
-[![The Unlicense](https://img.shields.io/github/license/rxrc/systemd-units.svg)](./LICENSE.txt)
+[![npm](https://img.shields.io/npm/v/@rxrc/systemd-units.svg)](https://www.npmjs.com/package/@rxrc/systemd-units)
+[![github](https://img.shields.io/badge/github-rxrc/systemd--units-blue.svg)](https://github.com/rxrc/systemd-units)
 
 ## Description
 
 These are my systemd units.
+
+Stable versions are tagged on GitHub
+and published on npm as `@rxrc/systemd-units` for convenience.
 
 For a usage example, see [archrc].
 

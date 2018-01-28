@@ -1,0 +1,9 @@
+---
+deploy:
+  provider: npm
+  email: razorx@evansosenko.com
+  api_key:
+    secure: YHtONau2Scrq72OsOykVn1QeSudknlrOHKjfz7NGWazsigdxfkL8yorsitO+Zot/IEJz+kUD11P44F7leAeU9kX2C0iutMTXzn8LoXjnwgPdc+rrAn5OI90ljX95u+KRJgocKap+x2ZNBVevjLS7IE9wR4QL2KYsRFvFvKquovU=
+  on:
+    tags: true
+    repo: rxrc/systemd-units
