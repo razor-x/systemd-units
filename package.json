@@ -15,6 +15,7 @@
     "system"
   ],
   "scripts": {
+    "test": "true",
     "postversion": "git push && git push --tags"
   }
 }
