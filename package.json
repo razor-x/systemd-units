@@ -1,6 +1,6 @@
 {
   "name": "@rxrc/systemd-units",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "Systemd units.",
   "homepage": "https://github.com/rxrc/systemd-units",
   "bugs": "https://github.com/rxrc/systemd-units/issues",
