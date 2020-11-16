@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [2.1.7] / 2020-11-16
+
+### Changed
+
+- Update .gitignore.
+
 ## [2.1.6] / 2020-11-13
 
 ### Fixed
@@ -100,7 +106,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 - Initial release.
 
-[Unreleased]: https://github.com/rxrc/systemd-units/compare/v2.1.6...HEAD
+[Unreleased]: https://github.com/rxrc/systemd-units/compare/v2.1.7...HEAD
+[2.1.7]: https://github.com/rxrc/systemd-units/compare/v2.1.6...v2.1.7
 [2.1.6]: https://github.com/rxrc/systemd-units/compare/v2.1.5...v2.1.6
 [2.1.5]: https://github.com/rxrc/systemd-units/compare/v2.1.4...v2.1.5
 [2.1.4]: https://github.com/rxrc/systemd-units/compare/v2.1.3...v2.1.4
