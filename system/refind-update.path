@@ -1,8 +1,0 @@
-[Unit]
-Description=Install rEFInd update
-
-[Path]
-PathChanged=/usr/share/refind
-
-[Install]
-WantedBy=multi-user.target
